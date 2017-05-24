@@ -69,7 +69,7 @@ You can check out a live version of this project hosted on Heroku [here](http://
 Clone this repository to your local machine using the following command:
 
 ```
-$ git clone https://github.com/msmichellegar/flickr.git
+$ git clone https://github.com/ravisinha0506/flickrSeachOperation.git 
 ```
 
 ###### 2. Install dependencies
